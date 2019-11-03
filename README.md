@@ -7,4 +7,5 @@ https://speakerdeck.com/ramnar/kubetraining-basics
 https://github.com/ramnar/kube-training/blob/master/labs.md
 
 ## References
+TODO
 
