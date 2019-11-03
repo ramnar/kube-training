@@ -17,7 +17,7 @@
 5.  In which node is the above pod running.
 6.  Delete the above created pod.
 
-## REPLICA SET
+## REPLICASET
 
 1.  Create a replicaset for nginx with three replicas using yaml file.
 2.  Delete one pod and see what happens.
