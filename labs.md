@@ -45,7 +45,7 @@
 
 ## MICROSERVICES
 
-TODO
+https://eksworkshop.com/beginner/050_deploy/
 
   
 
